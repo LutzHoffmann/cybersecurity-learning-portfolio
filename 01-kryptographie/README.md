@@ -18,4 +18,4 @@ In der digitalen Forensik begegnet uns dieses Konzept ständig:
 * **Ransomware-Analyse:** Erpressertrojaner nutzen genau dieses Prinzip. Sie verschlüsseln Opfer-Daten mit einem Public Key. Der Private Key liegt auf dem Server der Angreifer. Ohne ihn ist eine Entschlüsselung mathematisch unmöglich.
 * **Sichere Kommunikation:** Verständnis von TLS/HTTPS-Zertifikaten bei der Analyse von verschlüsseltem Netzwerkverkehr.
 
-![Terminal Screenshot](screen.png)
+![Terminal Screenshot](Screen.png)
