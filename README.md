@@ -17,6 +17,11 @@ Hier dokumentiere ich meine Fortschritte und praktischen Umsetzungen. Jeder Raum
 *   **[Moniker Link (CVE-2024-21413)](./CVE-2024-21413-MonikerLink/)**
     *   *Fokus:* Ausnutzung einer kritischen Outlook-Schwachstelle, Beheben von Port-Konflikten (Port 445) und Abfangen von NetNTLMv2-Hashes via `Responder`.
 
+### 🛡️ Exploit Frameworks
+*   **[Metasploit: Einführung](./Metasploit-Einfuehrung/)**
+    *   *Fokus:* Architektur des Frameworks (Exploits, Payloads, Auxiliary), Grundlagen der `msfconsole` und Modul-Konfiguration für zielgerichtete Angriffe.
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -26,6 +31,7 @@ Im Rahmen des Pfads und meiner Umschulung verwende ich aktiv folgende Tools:
 *   **Netzwerk & Analyse:** Responder, Wireshark
 *   **Cracking & Krypto:** John the Ripper (JTR), Hashcat
 *   **Automatisierung:** Bash-Scripting, Python
+
 
 ---
 *Hinweis: Alle Labore und Exploits wurden in isolierten, legalen Testumgebungen von TryHackMe durchgeführt.*
