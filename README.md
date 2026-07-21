@@ -31,6 +31,10 @@ Hier dokumentiere ich meine Fortschritte und praktischen Umsetzungen. Jeder Raum
 *   **[Metasploit: Meterpreter](./Metasploit-Meterpreter/)**
     *   *Fokus:* Tiefer Einstieg in Meterpreter – In-Memory-Payload & verschlüsselte C2-Kommunikation, Command-Kategorien (Core, File System, Networking, System), Prozess-Migration sowie Credential-Harvesting mit `hashdump` und Kiwi/Mimikatz.
 
+### 🚩 Praktische Angriffs-Challenges (CTF)
+*   **[Blue (EternalBlue / MS17-010)](./Blue-EternalBlue/)**
+    *   *Fokus:* Vollständige Kompromittierung einer Windows-Box – Recon mit Nmap, Ausnutzung von MS17-010 (SYSTEM-Zugriff), Session-Upgrade zu Meterpreter (`shell_to_meterpreter`, `migrate`), Hash-Dump und Offline-Cracking mit John the Ripper. 🏅 *Badge erhalten.*
+
 
 ---
 
