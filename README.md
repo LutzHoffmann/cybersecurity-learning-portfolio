@@ -28,6 +28,8 @@ Hier dokumentiere ich meine Fortschritte und praktischen Umsetzungen. Jeder Raum
     *   *Fokus:* Architektur des Frameworks (Exploits, Payloads, Auxiliary), Grundlagen der `msfconsole` und Modul-Konfiguration für zielgerichtete Angriffe.
 *   **[Metasploit: Exploitation](./Metasploit-Exploitation/)**
     *   *Fokus:* Kompletter Exploitation-Workflow – MSF-Datenbank & Workspaces, Scanning mit Auxiliary-Modulen, Ausnutzen verwundbarer Dienste sowie Post-Exploitation mit Meterpreter (`getsystem`, `hashdump`, `migrate`).
+*   **[Metasploit: Meterpreter](./Metasploit-Meterpreter/)**
+    *   *Fokus:* Tiefer Einstieg in Meterpreter – In-Memory-Payload & verschlüsselte C2-Kommunikation, Command-Kategorien (Core, File System, Networking, System), Prozess-Migration sowie Credential-Harvesting mit `hashdump` und Kiwi/Mimikatz.
 
 
 ---
