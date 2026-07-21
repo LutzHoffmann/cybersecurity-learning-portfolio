@@ -9,7 +9,7 @@ Mein praktisches Portfolio begleitend zur Umschulung und dem **TryHackMe Cyberse
 Hier dokumentiere ich meine Fortschritte und praktischen Umsetzungen. Jeder Raum ist in einem eigenen Ordner detailliert mit Befehlen, Methodiken und Skripten dokumentiert:
 
 ### 🛠️ Tool- & Passwort-Sicherheit
-*   **[John the Ripper (JTR) - Grundlagen](./John-The-Ripper/)**
+*   **[John the Ripper (JTR) - Grundlagen](./03-john-the-ripper-toolbox/)**
     *   *Fokus:* Cracking von Linux-Systemhashes (`/etc/shadow`), Archiven (ZIP/RAR) und SSH-Schlüsseln.
     *   *Highlight:* Eigenes Bash-Automatisierungsskript zur Hash-Extraktion.
 
