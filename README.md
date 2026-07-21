@@ -8,6 +8,12 @@ Mein praktisches Portfolio begleitend zur Umschulung und dem **TryHackMe Cyberse
 
 Hier dokumentiere ich meine Fortschritte und praktischen Umsetzungen. Jeder Raum ist in einem eigenen Ordner detailliert mit Befehlen, Methodiken und Skripten dokumentiert:
 
+### 🔐 Kryptographie & Hashing
+*   **[Asymmetrische Verschlüsselung mit OpenSSL](./01-kryptographie/)**
+    *   *Fokus:* Public-Key-Kryptographie – Erzeugen eines RSA-2048-Schlüsselpaars, Ver-/Entschlüsselung mit OpenSSL und Bezug zur Ransomware- und TLS-Analyse.
+*   **[Hashing-Grundlagen & Passwort-Analyse](./02-hashing-basics/)**
+    *   *Fokus:* Kryptographische Einwegfunktionen, Cracking von MD5- und HMAC-SHA512-Hashes mit Hashcat (RockYou) sowie Abgrenzung von Hashing, Verschlüsselung und Base64-Kodierung.
+
 ### 🛠️ Tool- & Passwort-Sicherheit
 *   **[John the Ripper (JTR) - Grundlagen](./03-john-the-ripper-toolbox/)**
     *   *Fokus:* Cracking von Linux-Systemhashes (`/etc/shadow`), Archiven (ZIP/RAR) und SSH-Schlüsseln.
