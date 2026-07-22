@@ -34,6 +34,12 @@ Hier dokumentiere ich meine Fortschritte und praktischen Umsetzungen. Jeder Raum
 ### 🚩 Praktische Angriffs-Challenges (CTF)
 *   **[Blue (EternalBlue / MS17-010)](./Blue-EternalBlue/)**
     *   *Fokus:* Vollständige Kompromittierung einer Windows-Box – Recon mit Nmap, Ausnutzung von MS17-010 (SYSTEM-Zugriff), Session-Upgrade zu Meterpreter (`shell_to_meterpreter`, `migrate`), Hash-Dump und Offline-Cracking mit John the Ripper. 🏅 *Badge erhalten.*
+*   **[Basic Pentesting](./Basic-Pentesting/)**
+    *   *Fokus:* Enumeration einer Linux-Box (Nmap, Gobuster, enum4linux, SMB), SSH-Brute-Force mit Hydra sowie User-Pivoting durch Cracken einer SSH-Key-Passphrase (`ssh2john` + John).
+
+### 🕸️ Web Hacking
+*   **[Web Application Basics](./Web-Application-Basics/)**
+    *   *Fokus:* Grundlagen der Web-Sicherheit – Aufbau von URLs, HTTP-Requests/Responses, Methoden, Status-Codes und Header sowie die Trennung von Front End und Back End (DevTools, `curl`).
 
 
 ---
